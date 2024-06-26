@@ -38,5 +38,3 @@ The `StringIndexMethods` class operates on the string `"abcdefghijklmabcdefghijk
 2. **Output:**
    - The program will output the index positions of various characters and substrings within the string `"abcdefghijklmabcdefghijklm"`.
 
-### Example Output
-
